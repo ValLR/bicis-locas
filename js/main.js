@@ -61,3 +61,5 @@ function validateForm(){
 
 }
 
+validateForm();
+
